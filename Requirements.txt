@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+prophet
+fastapi
+uvicorn
+plotly
+streamlit
+sqlalchemy
+psycopg2-binary
+python-multipart
+email-validator
+jupyter
+notebook
