@@ -2,9 +2,9 @@
 An AI-powered application that predicts employee productivity using historical task logs, hours worked, and performance metrics. The system helps managers make data-driven decisions through visual dashboards, forecasting tools, and alerts.
 
 ## 🔗 Google Colab
-[Open Notebook in Colab](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID)
+https://colab.research.google.com/drive/1zRuenU7u8SgSxXCg87W3tbey0Qov34gS#scrollTo=65IAoq6FHmAf
 
-> Replace `YOUR_NOTEBOOK_ID` with the actual ID from your Colab link.
+> Replace `eps.ipynb` with the actual ID from your Colab link.
 
 ---
 
@@ -46,7 +46,7 @@ An AI-powered application that predicts employee productivity using historical t
 
 The forecasting model (ARIMA + LSTM) is built and trained in a Google Colab notebook.
 
-➡️ **[Open in Colab](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID)**  
+➡️ **[Open in Colab](https://colab.research.google.com/drive/1zRuenU7u8SgSxXCg87W3tbey0Qov34gS#scrollTo=65IAoq6FHmAf)**  
 > Colab notebook includes:
 > - Data preprocessing
 > - KPI feature engineering
