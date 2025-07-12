@@ -4,8 +4,6 @@ An AI-powered application that predicts employee productivity using historical t
 ## 🔗 Google Colab
 https://colab.research.google.com/drive/1zRuenU7u8SgSxXCg87W3tbey0Qov34gS#scrollTo=65IAoq6FHmAf
 
-> Replace `eps.ipynb` with the actual ID from your Colab link.
-
 ---
 
 ## 🚀 Features
